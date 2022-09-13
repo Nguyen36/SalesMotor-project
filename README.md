@@ -10,7 +10,7 @@ B4:Open [http://localhost:3000/] to view it in your browser.
 
 B5:The page will reload when you make changes.
 
-_same steps for backend _
+_Same steps for backend_
 
 What technologies we use to build this project
 ---
